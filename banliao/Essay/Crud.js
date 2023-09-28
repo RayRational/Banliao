@@ -12,7 +12,7 @@ data{
     Homestay: [],
     News: [],
     CurrentTag: [],
-    skipsize: 30,
+    skipsize: 0,
 },
 //函数(民宿和文章类型的字段不一样,要单独循环渲染)
 loadHomePage() {
